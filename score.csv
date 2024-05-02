@@ -1,0 +1,55 @@
+RoadNumber;id;Municipality;Safety_type;Criterio 1;Criterio 2;Criterio 3;Criterio 4;Criterio 5;Criterio 6;Criterio 7;Criterio 8;Cyclability_score;Cycability_score_normalized
+diramazione;0;Piacenza;residential;4;5;1;1;1;0;1;48;0;0
+diramazione;1;San Rocco al Porto;primary;1;1;1;1;0;0;4;3;5.9;0.053571429
+diramazione;2;Santo Stefano Lodigiano;tertiary;2;3;1;1;1;0;5;4;10;0.297619048
+diramazione;3;Corno Giovine;secondary;1;2;0;1;0;0;5;2;6.1;0.06547619
+diramazione;6;Caselle Landi;residential;3;5;1;1;0;0;5;2;11.6;0.392857143
+diramazione;7;Meleti;unclassified;1;4;0;0;0;0;5;0;6.6;0.095238095
+diramazione;8;Castelnuovo Bocca d'Adda;unclassified;5;4;0;0;0;0;5;0;10.6;0.333333333
+diramazione;9;Maccastorna;residential;4;5;0;1;0;0;5;1;11.5;0.386904762
+diramazione;11;Acquanegra Cremonese;tertiary;2;3;0;0;0;0;5;0;6.7;0.101190476
+diramazione;14;Spinadesco;residential;3;5;1;1;0;0;5;2;11.6;0.392857143
+diramazione;15;Cremona;service;1;6;1;1;0;0;1;4;9.5;0.267857143
+diramazione;17;Cremona;residential;2;5;1;1;1;1;1;41;21.8;1
+diramazione;18;Gerre de' Caprioli;unclassified;3;4;0;1;0;0;5;1;9.6;0.273809524
+diramazione;20;Stagno Lombardo;unclassified;1;4;1;0;0;0;5;1;7.7;0.160714286
+diramazione;21;Pieve d'Olmi;unclassified;3;4;0;0;0;0;5;0;8.6;0.214285714
+diramazione;23;San Daniele Po;unclassified;2;4;1;1;1;0;5;4;10.9;0.351190476
+diramazione;24;Motta Baluffi;unclassified;5;4;0;0;0;0;5;0;10.6;0.333333333
+diramazione;25;Torricella del Pizzo;tertiary;4;3;0;0;0;0;5;0;8.7;0.220238095
+diramazione;29;Gussola;residential;4;5;1;0;0;0;4;1;11.2;0.369047619
+diramazione;30;Martignana di Po;residential;3;5;1;0;0;0;5;1;10.6;0.333333333
+diramazione;31;Casalmaggiore 1;unclassified;3;4;1;0;0;0;2;2;8.8;0.226190476
+diramazione;32;Casalmaggiore 2;unclassified;1;4;1;0;0;0;2;2;6.8;0.107142857
+diramazione;33;Casalmaggiore 3;residential;5;5;1;0;1;0;2;5;13.2;0.488095238
+diramazione;35;Casalmaggiore 4;primary;1;1;1;1;0;0;2;3;5.1;0.005952381
+diramazione;36;Casalmaggiore 5;primary;1;1;1;1;0;0;2;6;6;0.05952381
+diramazione;38;Casalmaggiore 6;unclassified;4;4;0;1;0;0;2;3;10;0.297619048
+diramazione;39;Viadana;residential;5;5;1;1;0;0;2;3;12.7;0.458333333
+diramazione;40;Viadana;unclassified;4;4;0;0;0;0;2;0;8.4;0.202380952
+diramazione;41;Viadana;residential;4;5;0;1;1;0;2;4;11.8;0.404761905
+diramazione;48;Borgo Virgilio;residential;3;5;1;1;0;0;3;3;11.1;0.363095238
+diramazione;52;San Benedetto Po;unclassified;3;4;1;1;1;0;3;7;12;0.416666667
+diramazione;54;San Benedetto Po;secondary;4;2;0;0;0;0;3;0;7;0.119047619
+diramazione;57;Motteggiana;tertiary;4;3;0;0;0;0;4;0;8.3;0.196428571
+diramazione;58;Motteggiana;tertiary;4;3;0;0;0;0;4;0;8.3;0.196428571
+diramazione;60;Suzzara;unclassified;5;4;0;0;0;0;2;0;9.4;0.261904762
+diramazione;61;Suzzara;unclassified;3;4;0;0;0;0;2;0;7.4;0.142857143
+diramazione;62;Suzzara;unclassified;1;4;0;0;0;0;2;0;5.4;0.023809524
+diramazione;63;Luzzara;residential;4;5;0;0;0;0;3;0;9.7;0.279761905
+diramazione;64;Guastalla;cycleway;3;7;1;1;0;0;3;3;12.9;0.470238095
+diramazione;66;Guastalla;residential;1;5;1;1;0;0;3;4;9.4;0.261904762
+diramazione;67;Gualtieri;cycleway;3;7;0;0;0;0;3;0;10.5;0.327380952
+diramazione;68;Boretto;residential;5;5;0;1;0;0;3;1;11.7;0.398809524
+diramazione;69;Brescello;secondary;1;2;1;1;1;0;3;10;9.1;0.244047619
+diramazione;77;San Daniele Po;residential;5;5;0;0;0;0;5;0;11.5;0.386904762
+diramazione;82;Castelvetro Piacentino;primary;4;1;0;1;0;0;3;1;7.1;0.125
+diramazione;83;Castelvetro Piacentino;primary;1;1;0;1;0;0;3;4;5;0
+diramazione;84;Castelvetro Piacentino;primary;1;1;0;1;0;0;3;4;5;0
+diramazione;85;Monticelli d'Ongina;residential;5;5;0;0;0;0;3;0;10.7;0.339285714
+diramazione;86;Monticelli d'Ongina;unclassified;4;4;0;0;0;0;3;0;8.8;0.226190476
+diramazione;87;Monticelli d'Ongina;unclassified;3;4;1;1;1;0;3;5;11.4;0.380952381
+diramazione;88;Monticelli d'Ongina;residential;4;5;1;1;0;0;3;3;12.1;0.422619048
+diramazione;89;Caorso;service;2;6;1;1;0;0;4;4;11.7;0.398809524
+diramazione;90;Piacenza;primary;5;1;1;0;0;0;1;1;7.4;0.142857143
+diramazione;53;San Benedetto Po;unclassified;5;4;0;0;0;0;3;0;0;0
