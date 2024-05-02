@@ -1,15 +1,5 @@
 RoadNumber;id;Municipality;Safety_type;Criterio 1;Criterio 2;Criterio 3;Criterio 4;Criterio 5;Criterio 6;Criterio 7;Criterio 8;Cyclability_score;Cycability_score_normalized
 diramazione;0;Piacenza;residential;4;5;1;1;1;0;1;48;0;0
-diramazione;1;San Rocco al Porto;primary;1;1;1;1;0;0;4;3;5.9;0.053571429
-diramazione;2;Santo Stefano Lodigiano;tertiary;2;3;1;1;1;0;5;4;10;0.297619048
-diramazione;3;Corno Giovine;secondary;1;2;0;1;0;0;5;2;6.1;0.06547619
-diramazione;6;Caselle Landi;residential;3;5;1;1;0;0;5;2;11.6;0.392857143
-diramazione;7;Meleti;unclassified;1;4;0;0;0;0;5;0;6.6;0.095238095
-diramazione;8;Castelnuovo Bocca d'Adda;unclassified;5;4;0;0;0;0;5;0;10.6;0.333333333
-diramazione;9;Maccastorna;residential;4;5;0;1;0;0;5;1;11.5;0.386904762
-diramazione;11;Acquanegra Cremonese;tertiary;2;3;0;0;0;0;5;0;6.7;0.101190476
-diramazione;14;Spinadesco;residential;3;5;1;1;0;0;5;2;11.6;0.392857143
-diramazione;15;Cremona;service;1;6;1;1;0;0;1;4;9.5;0.267857143
 diramazione;17;Cremona;residential;2;5;1;1;1;1;1;41;21.8;1
 diramazione;18;Gerre de' Caprioli;unclassified;3;4;0;1;0;0;5;1;9.6;0.273809524
 diramazione;20;Stagno Lombardo;unclassified;1;4;1;0;0;0;5;1;7.7;0.160714286
@@ -30,6 +20,7 @@ diramazione;40;Viadana;unclassified;4;4;0;0;0;0;2;0;8.4;0.202380952
 diramazione;41;Viadana;residential;4;5;0;1;1;0;2;4;11.8;0.404761905
 diramazione;48;Borgo Virgilio;residential;3;5;1;1;0;0;3;3;11.1;0.363095238
 diramazione;52;San Benedetto Po;unclassified;3;4;1;1;1;0;3;7;12;0.416666667
+diramazione;53;San Benedetto Po;unclassified;5;4;0;0;0;0;0;0;0;0
 diramazione;54;San Benedetto Po;secondary;4;2;0;0;0;0;3;0;7;0.119047619
 diramazione;57;Motteggiana;tertiary;4;3;0;0;0;0;4;0;8.3;0.196428571
 diramazione;58;Motteggiana;tertiary;4;3;0;0;0;0;4;0;8.3;0.196428571
@@ -52,4 +43,3 @@ diramazione;87;Monticelli d'Ongina;unclassified;3;4;1;1;1;0;3;5;11.4;0.380952381
 diramazione;88;Monticelli d'Ongina;residential;4;5;1;1;0;0;3;3;12.1;0.422619048
 diramazione;89;Caorso;service;2;6;1;1;0;0;4;4;11.7;0.398809524
 diramazione;90;Piacenza;primary;5;1;1;0;0;0;1;1;7.4;0.142857143
-diramazione;53;San Benedetto Po;unclassified;5;4;0;0;0;0;3;0;0;0
