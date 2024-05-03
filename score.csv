@@ -1,5 +1,5 @@
 RoadNumber;id;Municipality;Safety_type;Criterio 1;Criterio 2;Criterio 3;Criterio 4;Criterio 5;Criterio 6;Criterio 7;Criterio 8;Cyclability_score;Cycability_score_normalized
-diramazione;0;Piacenza;residential;4;5;1;1;1;0;1;48;0;0
+diramazione;0;Piacenza;residential;0;0;0;0;0;0;0;0;0;0
 diramazione;17;Cremona;residential;2;5;1;1;1;1;1;41;21.8;1
 diramazione;18;Gerre de' Caprioli;unclassified;3;4;0;1;0;0;5;1;9.6;0.273809524
 diramazione;20;Stagno Lombardo;unclassified;1;4;1;0;0;0;5;1;7.7;0.160714286
@@ -19,7 +19,7 @@ diramazione;39;Viadana;residential;5;5;1;1;0;0;2;3;12.7;0.458333333
 diramazione;40;Viadana;unclassified;4;4;0;0;0;0;2;0;8.4;0.202380952
 diramazione;48;Borgo Virgilio;residential;3;5;1;1;0;0;3;3;11.1;0.363095238
 diramazione;52;San Benedetto Po;unclassified;3;4;1;1;1;0;3;7;12;0.416666667
-diramazione;53;San Benedetto Po;unclassified;5;4;0;0;0;0;0;0;0;0
+diramazione;53;San Benedetto Po;unclassified;0;0;0;0;0;0;0;0;0;0
 diramazione;54;San Benedetto Po;secondary;4;2;0;0;0;0;3;0;7;0.119047619
 diramazione;57;Motteggiana;tertiary;4;3;0;0;0;0;4;0;8.3;0.196428571
 diramazione;58;Motteggiana;tertiary;4;3;0;0;0;0;4;0;8.3;0.196428571
