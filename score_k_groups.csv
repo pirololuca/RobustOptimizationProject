@@ -1,4 +1,4 @@
-RoadNumber;id;Municipality;Safety_type;Distance;Safety;Sport;Food;Cultural;Natural;Population
+, dista;id;Municipality;Safety_type;Distance;Safety;Sport;Food;Cultural;Natural;Population
 diramazione;0;Piacenza;residential;0;0;0;0;0;0;0
 diramazione;17;Cremona;residential;4.6;7.3;6.1;4.3;8.7;9.1;2.3
 diramazione;18;Gerre de' Caprioli;unclassified;5.4;6.9;2.9;7.9;1.8;6.4;8.9
